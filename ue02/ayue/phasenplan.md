@@ -59,3 +59,5 @@
 ## Bei welchen Karten waren Sie unsicher — und was haben Sie abgewogen?
 
 Keine Karte markiert.
+
+<!-- zuordnung ue02-phasenplan: k01=spezifikation k02=spezifikation k03=spezifikation k04=spezifikation k05=studie k22=studie k06=implementierung k07=implementierung k08=implementierung k09=integration k10=implementierung k11=konstruktion k12=implementierung k23=integration k13=konstruktion k14=spezifikation k15=spezifikation k16=wartung k17=konstruktion k18=implementierung k19=integration k24=wartung k20=wartung k21=implementierung | unsicher: – -->

@@ -1,10 +1,24 @@
-# Spezifikation des Terminplaners — Gliederung und Beispiele
+# Gesprächsnotiz: Terminplaner für die THM
 
 ---
 Bearbeitet von: [aunal6006-pixel](https://github.com/aunal6006-pixel) (Kürzel: ayue)
 
---- 
 ---
+
+
+* Werkzeuge:
+  * `phasenplan.md`
+  * `spezifikation.md`
+
+---
+
+
+> Hier steht die Notiz zum Terminplaner für die THM.
+
+**Wichtig:** Bitte beachten Sie alle Vorgaben.
+
+---
+
 
 ## 1. Wer benutzt die SW
 ST buchen Termine, DZ trägt freie Zeiten ein, SK kontrolliert.
