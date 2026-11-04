@@ -8,7 +8,7 @@
 | A02 | Alle Daten müssen nach den Datenschutzregeln auf den Servern der THM gespeichert werden. | Datenschutzbeauftragter | RB  |
 | A03 | Nach der Buchung muss die Bestätigung innerhalb von einer Minute per E-Mail ankommen. | Studierende | QA  |
 | A04 | Die Buchungsseite muss auf dem Handy gut lesbar sein, ohne dass man seitlich scrollen muss. | Studierende | QA  |
-| A05 | Das System darf keine Doppelbuchungen zulassen und keine Termine aus der Vergangenheit anzeigen. | Studierende  | FA  |
+| A05 | Das System darf keine Doppelbuchungen zulassen. | Studierende  | FA  |
 | A06 | Studierende können einen gebuchten Termin bis zu 24 Stunden vorher wieder absagen. | Studierende | FA  |
 | A07 | Dozenten können wiederkehrende Sprechstunden für das ganze Semester auf einmal anlegen. | Dozenten | FA  |
 | A08 | Dozenten können einstellen, wie viele Termine pro Tag maximal gebucht werden dürfen. | Dozenten | FA  |
